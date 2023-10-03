@@ -1,12 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">A 2nd year applied computer science student</h3>
+<h3 align="center">Junior Web Developer</h3>
 
 <img align="right" alt="Coding-gif" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/>
 
 <p align="left"> <a href="https://twitter.com/s28ha" target="blank"><img src="https://img.shields.io/twitter/follow/s28ha?logo=twitter&style=for-the-badge" alt="s28ha" /></a> </p>
 
-- 🌱 I’m currently Junior Web Developer focused on Cloud (AWS)
+- 🌱 I’m currently Junior Web Developer focused on Cloud Computing (AWS)
 
 - 📫 How to reach me **marcinmoch757@gmail.com**
 
