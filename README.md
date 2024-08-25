@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/s28ha" target="blank"><img src="https://img.shields.io/twitter/follow/s28ha?logo=twitter&style=for-the-badge" alt="s28ha" /></a> </p>
 
-- 🌱 I’m currently Junior Web Developer focused on Cloud Computing (AWS)
+- 🌱 I’m currently Software Development Engineer focused on Cloud Computing (AWS)
 
 - 📫 How to reach me **marcinmoch757@gmail.com**
 
