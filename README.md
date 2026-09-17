@@ -1,26 +1,130 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">Software Development Engineer</h3>
-
-<img align="right" alt="Coding-gif" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/>
-
-<p align="left"> <a href="https://twitter.com/s28ha" target="blank"><img src="https://img.shields.io/twitter/follow/s28ha?logo=twitter&style=for-the-badge" alt="s28ha" /></a> </p>
-
-- 🌱 I’m currently Software Development Engineer focused on Cloud Computing (AWS)
-
-- 📫 How to reach me **marcinmoch757@gmail.com**
-
-- ⚡ Fun fact **I appreciate learning new things**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/s28ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s28ha" height="30" width="40" /></a>
+<h1 align="center">Marcin Moch</h1>
+<p align="center">
+  <b>Cloud &amp; Integration Engineer · Technical Consultant</b><br>
+  Serverless architecture on AWS · enterprise system integration
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcin-moch-22a58723a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:marcinmoch757@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats-kohl-alpha.vercel.app/api/top-langs/?username=HaRreS28&layout=compact&hide=C%2B%2B,CMake,C&theme=tokyonight" alt="harres28" /></p>
+I build serverless integrations between enterprise systems on AWS, working directly with
+international clients from technical discovery through to production. Most of my time goes into
+API and integration design, cloud architecture decisions, and translating business requirements
+into something that actually holds up in production.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-kohl-alpha.vercel.app/api?username=harres28&show_icons=true&locale=en&theme=tokyonight" alt="harres28" /></p>
+Currently moving towards solution and enterprise architecture.
+
+- **Day to day:** AWS serverless, API design, third-party integrations, Node.js / TypeScript
+- **Currently learning:** TOGAF (Foundation &amp; Practitioner)
+- **Working with AI:** Claude API, Claude Code, MCP servers and agent workflows applied to real delivery work
+- **Interested in:** distributed systems, event-driven architecture, cloud cost and performance
+
+---
+
+### Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SA Pro">
+  <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS DevOps Pro">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SA Assoc">
+  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Dev Assoc">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CP">
+  <img src="https://img.shields.io/badge/Bynder-Certified%20Administrator-1C64F2?style=flat-square" alt="Bynder Admin">
+  <img src="https://img.shields.io/badge/Bynder-Implementation%20Expert-1C64F2?style=flat-square" alt="Bynder Impl">
+  <img src="https://img.shields.io/badge/TOGAF-Foundation%20%26%20Practitioner%20(in%20progress)-6E7B8B?style=flat-square" alt="TOGAF in progress">
+</p>
+
+**Anthropic Academy - 8 completed courses** *(April 2026)*
+
+| Course | Verify |
+|---|---|
+| AI Fluency: Framework &amp; Foundations | [certificate](https://verify.skilljar.com/c/w4qb7bg5rxgr) |
+| Building with the Claude API | [certificate](https://verify.skilljar.com/c/v8dwvie7whh9) |
+| Claude 101 | [certificate](https://verify.skilljar.com/c/ddj3y3mc6hp5) |
+| Claude Code 101 | [certificate](https://verify.skilljar.com/c/peuee49mw6yz) |
+| Claude Code in Action | [certificate](https://verify.skilljar.com/c/kuijwyrkkony) |
+| Introduction to Model Context Protocol | [certificate](https://verify.skilljar.com/c/ghzsa5snhtx3) |
+| Introduction to Agent Skills | [certificate](https://verify.skilljar.com/c/yi533bbjgdpu) |
+| Introduction to Subagents | [certificate](https://verify.skilljar.com/c/gedtmqja6tex) |
+
+---
+
+### Tech
+
+**Cloud &amp; Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda">
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway">
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazoneventbridge&logoColor=white" alt="EventBridge">
+  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" alt="SQS">
+  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonsns&logoColor=white" alt="SNS">
+  <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=awslambda&logoColor=white" alt="Step Functions">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3">
+  <img src="https://img.shields.io/badge/ElastiCache%20%2F%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="ElastiCache / Redis">
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" alt="CloudFront">
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch">
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white" alt="IAM">
+  <img src="https://img.shields.io/badge/CloudFormation-E7157B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="CloudFormation">
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless Framework">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
+</p>
+
+**AI &amp; LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Bedrock">
+</p>
+
+**Languages &amp; Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+</p>
+
+**Data &amp; Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Magnolia%20CMS-000000?style=flat-square" alt="Magnolia CMS">
+  <img src="https://img.shields.io/badge/Bynder%20DAM-1C64F2?style=flat-square" alt="Bynder DAM">
+</p>
+
+---
+
+> Most of my production work lives in private repositories.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaRreS28&show_icons=true&hide_border=true&theme=tokyonight&hide=issues&cache_seconds=86400" alt="GitHub stats" height="160">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRreS28&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" height="160">
+</p>
