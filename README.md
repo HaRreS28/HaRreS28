@@ -1,6 +1,6 @@
 <h1 align="center">Marcin Moch</h1>
 <p align="center">
-  <b>Cloud &amp; Integration Engineer · Technical Consultant</b><br>
+  <b>Backend Lead · Technical Consultant</b><br>
   Serverless architecture on AWS · enterprise system integration
 </p>
 
@@ -25,7 +25,7 @@ Currently moving towards solution and enterprise architecture.
 - **Day to day:** AWS serverless, API design, third-party integrations, Node.js / TypeScript
 - **Currently learning:** TOGAF (Foundation &amp; Practitioner)
 - **Working with AI:** Claude API, Claude Code, MCP servers and agent workflows applied to real delivery work
-- **Interested in:** distributed systems, event-driven architecture, cloud cost and performance
+- **Interested in:** distributed systems, event-driven architecture, cloud and performance
 
 ---
 
@@ -75,6 +75,7 @@ Currently moving towards solution and enterprise architecture.
   <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white" alt="CloudFront">
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch">
   <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white" alt="IAM">
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch">
   <img src="https://img.shields.io/badge/CloudFormation-E7157B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="CloudFormation">
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless Framework">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
@@ -89,6 +90,7 @@ Currently moving towards solution and enterprise architecture.
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API">
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol">
+  <img src="https://img.shields.io/badge/Agent%20Skills-D97757?style=flat-square&logo=claude&logoColor=white" alt="Agent Skills">
 </p>
 
 **Languages &amp; Frameworks**
@@ -107,23 +109,25 @@ Currently moving towards solution and enterprise architecture.
 
 **Data &amp; Platforms**
 
-<p>
+<p> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Magnolia%20CMS-000000?style=flat-square" alt="Magnolia CMS">
-  <img src="https://img.shields.io/badge/Bynder%20DAM-1C64F2?style=flat-square" alt="Bynder DAM">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white" alt="Liquibase"> 
+  <img src="https://img.shields.io/badge/Magnolia%20CMS-000000?style=flat-square" alt="Magnolia CMS"> 
+  <img src="https://img.shields.io/badge/Bynder%20DAM-1C64F2?style=flat-square" alt="Bynder DAM"> 
 </p>
 
----
+> Most of my production work lives in private repositories, so what's public here doesn't reflect
+> what I do day to day. Happy to walk through it in more detail - contact links are at the top.
 
-> Most of my production work lives in private repositories.
-
----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaRreS28&show_icons=true&hide_border=true&theme=tokyonight&hide=issues&cache_seconds=86400" alt="GitHub stats" height="160">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaRreS28&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" height="160">
+  <a href="https://www.linkedin.com/in/marcin-moch-22a58723a/">
+    <img src="https://img.shields.io/badge/Let%27s%20talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:marcinmoch757@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marcinmoch757-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
